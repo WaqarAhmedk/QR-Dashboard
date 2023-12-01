@@ -1,0 +1,37 @@
+.dropdown-menu {
+    width: 100%;
+    left: 0;
+    height: 20vh !important;
+    overflow-y: auto !important;
+  }
+  
+  /* Change the background color of the dropdown */
+  .dropdown-item {
+    color: #000000; 
+  }
+  
+  /* Change the background color of the dropdown when hovered */
+  .dropdown-item:hover {
+    color: #ffffff;
+    background-color: #4dafff; 
+  }
+  .dropdown{
+    width:100% !important
+  }
+  .dropdown-toggle{
+    border: 1px solid dodgerblue !important;
+    background-color: white !important;
+  }
+
+  .dropdown-toggle:hover{
+    border: 1px solid dodgerblue !important;
+    background-color: white !important;
+  }
+  .form-control{
+    border: 1px solid dodgerblue !important;
+
+  }
+ #country-dropdown{
+      background-color:#0095E8 !important;
+}
+
